@@ -1,0 +1,15 @@
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vehicles.exe
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vehicles.deps.json
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vehicles.dll
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vehicles.pdb
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.dll
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.pdb
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\ref\Vehicles.dll

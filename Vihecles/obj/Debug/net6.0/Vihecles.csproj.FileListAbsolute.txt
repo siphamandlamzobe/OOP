@@ -1,0 +1,15 @@
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vihecles.exe
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vihecles.deps.json
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vihecles.runtimeconfig.json
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vihecles.dll
+C:\DEV\OOP\Vihecles\bin\Debug\net6.0\Vihecles.pdb
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.csproj.AssemblyReference.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.AssemblyInfoInputs.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.AssemblyInfo.cs
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.csproj.CoreCompileInputs.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.dll
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\refint\Vihecles.dll
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.pdb
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\Vihecles.genruntimeconfig.cache
+C:\DEV\OOP\Vihecles\obj\Debug\net6.0\ref\Vihecles.dll
