@@ -1,26 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\OOP\\Vihecles\\Vehicles.csproj": {}
+    "C:\\Dev\\OOP\\Vihecles\\Vehicles.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\OOP\\Vihecles\\Vehicles.csproj": {
+    "C:\\Dev\\OOP\\Vihecles\\Vehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\OOP\\Vihecles\\Vehicles.csproj",
+        "projectUniqueName": "C:\\Dev\\OOP\\Vihecles\\Vehicles.csproj",
         "projectName": "Vehicles",
-        "projectPath": "C:\\DEV\\OOP\\Vihecles\\Vehicles.csproj",
-        "packagesPath": "C:\\Users\\SiphamandlaMzobe\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\OOP\\Vihecles\\obj\\",
+        "projectPath": "C:\\Dev\\OOP\\Vihecles\\Vehicles.csproj",
+        "packagesPath": "C:\\Users\\Dell-Latitude-5330\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\OOP\\Vihecles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SiphamandlaMzobe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dell-Latitude-5330\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,10 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/1dS9gd5IONF7HgidBWtoGtp7FH6ZDNe3Z3RA5eAnzIwVE8ttj1/api": {},
-          "https://nuget.iua.co.za/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -64,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
